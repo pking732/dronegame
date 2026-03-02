@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "Game Design Doc Creator": {
+      "source": "sunholo-data/stapledons_voyage",
+      "sourceType": "github",
+      "computedHash": "c45001c7e8fcc22453bb7996a2293bd43aafab43e862f838b5175cfaea735cee"
+    },
+    "Unity UI Toolkit": {
+      "source": "Dev-GOM/claude-code-marketplace",
+      "sourceType": "github",
+      "computedHash": "02bea763a5843eb9e6fde71a23d5affb0783951e2292f7d8d3cf573d76ccbcad"
+    },
+    "design-doc-template": {
+      "source": "jeremylongshore/claude-code-plugins-plus-skills",
+      "sourceType": "github",
+      "computedHash": "b2e06e12578244e4869b474815934a8950c7ea3372f5dfe82354198599246eee"
+    },
+    "meta-prompt-engineering": {
+      "source": "lyndonkl/claude",
+      "sourceType": "github",
+      "computedHash": "b23242382aa97589ef9a5e271ef19bec28e1e9dbde72cacc898a7c5f8450afb2"
+    }
+  }
+}
